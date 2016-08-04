@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyDemo.iml" filepath="$PROJECT_DIR$/MyDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyLoginApp/MyLoginApp.iml" filepath="$PROJECT_DIR$/MyLoginApp/MyLoginApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heartlayout/heartlayout.iml" filepath="$PROJECT_DIR$/heartlayout/heartlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hert/hert.iml" filepath="$PROJECT_DIR$/hert/hert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login1/login1.iml" filepath="$PROJECT_DIR$/login1/login1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaoxin/xiaoxin.iml" filepath="$PROJECT_DIR$/xiaoxin/xiaoxin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/动态背景/动态背景.iml" filepath="$PROJECT_DIR$/动态背景/动态背景.iml" />
+      <module fileurl="file://$PROJECT_DIR$/动画/动画.iml" filepath="$PROJECT_DIR$/动画/动画.iml" />
+    </modules>
+  </component>
+</project>

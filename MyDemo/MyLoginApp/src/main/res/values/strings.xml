@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Sign_in">Sign in</string>
+    <string name="Success">登录成功</string>
+    <string name="Loading">正在登录...</string>
+
+    <array name="sample_list">
+        <item>样式1</item>
+        <item>样式1.1</item>
+        <item>样式2</item>
+        <item>样式3</item>
+        <item>样式4</item>
+    </array>
+</resources>

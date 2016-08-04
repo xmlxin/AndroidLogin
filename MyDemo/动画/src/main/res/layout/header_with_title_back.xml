@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/relativeLayout1"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:background="@color/TopTitleBG"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/rltitle"
+        android:layout_width="fill_parent"
+        android:layout_height="45.0dip">
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="小新商城"
+            android:textColor="@color/WHITE"
+            android:textSize="18.0sp"/>
+
+        <Button
+            android:id="@+id/btn_back"
+            android:layout_width="35.0dip"
+            android:layout_height="35.0dip"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5.0dip"
+            android:background="@drawable/buttonbackbg"
+            android:textColor="@color/WHITE"
+            android:textSize="16.0sp"
+            android:visibility="gone"/>
+
+        <ImageButton
+            android:id="@+id/ibt_scan"
+            android:layout_width="26.0dip"
+            android:layout_height="20.0dip"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15.0dip"
+            android:background="@drawable/home_scan"
+            android:scaleType="fitXY"
+            android:textSize="16.0sp"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/tv_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10.0dip"
+            android:text="上海"
+            android:textColor="@color/YELLOW_BG"
+            android:textSize="18.0sp"
+            android:visibility="gone"/>
+    </RelativeLayout>
+</LinearLayout>

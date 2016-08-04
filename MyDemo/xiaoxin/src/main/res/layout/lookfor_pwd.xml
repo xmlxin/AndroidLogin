@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ui_004"
+    android:weightSum="1">
+    <TextView
+
+       android:layout_marginTop="100dp"
+        android:text="此功能正在完善中,看张美女消消气"
+        android:textSize="20sp"
+        android:textColor="#FF00FF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         />
+
+
+
+
+
+</LinearLayout>
